@@ -6,10 +6,14 @@ https://www.aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=&topMenu=&sr
 
 ### 2. 대응 기준
 <br>
-1. A vec : 무작위 랜덤 vector 
+1. A vec : 무작위 랜덤 vector
+<br>
 2. B vec : A Vec과의 유사도 0.8 이상
+<br>
 3. C vec : - A Vec 
+<br>
 4. 관계 : B vec - A vec
+<br>
 5. D : C vec + 관계
 
 ### 3. 결과
